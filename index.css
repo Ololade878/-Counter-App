@@ -1,0 +1,76 @@
+body {
+    background-image: url("https://images.unsplash.com/photo-1606636769877-f7533edd8c96?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1527&q=80");
+    background-size: cover;
+    font-family: 'Happy Monkey', cursive;
+    font-family: 'Peddana', serif;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+#count-el{
+    margin-top: 40px;
+}
+h1 {
+    padding-top: 15px;
+    background: black;
+    border: 3px solid darkgreen;
+    border-radius: 30px;
+    color: whitesmoke;
+    font-size: 20px;
+    margin: 0px auto;
+    height: 40px;
+    font-family: pedanna;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    font-family: pedanna;
+}
+#main-container{
+    padding: 40px;
+    display: block;
+    border: 3px solid black;
+    background: white;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+    width: 70%;
+    height: 100vh;
+}
+
+button {
+    border: 3px solid black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-top: 20px;
+    margin-bottom: 5px;
+    border-radius: 10px;
+}
+.btn-icons{
+    width: 20px;
+    margin-left: 20px;
+}
+
+#increment-btn {
+    background: #2c2891;
+}
+
+#decrement-btn{
+    background: #B12222;
+}
+
+#save-btn {
+    background: darkgreen;
+}
+
+#save-el{
+    font-family: pedanna;
+    font-size: 20px;
+    margin-top: 40px;
+}
+

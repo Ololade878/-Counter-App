@@ -68,6 +68,10 @@ button {
     background: darkgreen;
 }
 
+#reset-btn{
+    background: #2591AA;
+}
+
 #save-el{
     font-family: pedanna;
     font-size: 20px;

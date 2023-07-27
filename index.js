@@ -12,9 +12,14 @@ function decrement() {
     }
     else{
         count -= 1
-        countEl.textContent = count
+        countEl.textContent = count;
     }
     
+}
+
+function reset(){
+    count = 0;
+    countEl.innerText = count;
 }
 
 function save() {
